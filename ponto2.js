@@ -6,3 +6,4 @@ let resultado = a + b;
 //exibo resusltado 
 console.log(resultado)
 console.log ("leticia")
+//eu sou linda
