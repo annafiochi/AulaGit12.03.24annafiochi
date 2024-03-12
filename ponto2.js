@@ -5,3 +5,4 @@ let resultado = a + b;
  
 //exibo resusltado 
 console.log(resultado)
+console.log ("amor")
