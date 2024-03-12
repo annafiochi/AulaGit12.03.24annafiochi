@@ -5,4 +5,4 @@ let resultado = a + b;
  
 //exibo resusltado 
 console.log(resultado)
-console.log ("amizade")
+console.log ("thiago")
